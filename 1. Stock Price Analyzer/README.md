@@ -2,7 +2,7 @@
 
 ## Dashboard
 
-![Dashboard](https://github.com/SharathHebbar/Dash-Apps/tree/main/1.%20Stock%20Price%20Analyzer/assets)
+![Dashboard](https://github.com/SharathHebbar/Dash-Apps/blob/main/1.%20Stock%20Price%20Analyzer/assets/op.png)
 
 - To install required libraries
 ```pip install -r requirements.txt```
