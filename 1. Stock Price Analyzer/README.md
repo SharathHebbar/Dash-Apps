@@ -5,7 +5,7 @@
 
 or
 
-- Run the install.cmd on Windows or install.sh on Linux
+- Run the `install.cmd` on Windows or `install.sh` on Linux
 
 - To Run the script
 ```python main.py```
