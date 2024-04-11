@@ -4,6 +4,8 @@
 
 ![Dashboard](https://github.com/SharathHebbar/Dash-Apps/blob/main/1.%20Stock%20Price%20Analyzer/assets/op.png)
 
+## Installation
+
 - To install required libraries
 ```pip install -r requirements.txt```
 
