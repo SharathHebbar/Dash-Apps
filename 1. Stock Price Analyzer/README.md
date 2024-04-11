@@ -1,5 +1,9 @@
 # Stock Price Visualization
 
+## Dashboard
+
+![Dashboard](https://github.com/SharathHebbar/Dash-Apps/tree/main/1.%20Stock%20Price%20Analyzer/assets)
+
 - To install required libraries
 ```pip install -r requirements.txt```
 
